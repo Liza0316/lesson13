@@ -1,0 +1,30 @@
+.numbers{
+    position: absolute;
+    bottom: -38px;
+  
+  &-column{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 1289px;
+    padding-bottom: 28px;
+    font-size: 30px;
+    width: 100px;
+    height: 100px;
+  }
+  }
+  
+  .numbers2{
+    position: absolute;
+    padding-top: 52px;
+  
+    &-column{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      padding-bottom: 28px;
+      font-size: 30px;
+      width: 100px;
+      height: 100px;
+  }
+  }
