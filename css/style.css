@@ -51,14 +51,14 @@ body {
 
 .numbers {
   position: absolute;
-  bottom: -38px;
+  bottom: -130px;
 }
 .numbers-column {
   display: flex;
   justify-content: space-around;
   align-items: center;
   margin-left: 1289px;
-  padding-bottom: 28px;
+  padding-bottom: 27px;
   font-size: 30px;
   width: 100px;
   height: 100px;
@@ -72,7 +72,7 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding-bottom: 28px;
+  padding-bottom: 27px;
   font-size: 30px;
   width: 100px;
   height: 100px;
